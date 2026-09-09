@@ -1,0 +1,17 @@
+{
+  "name": "genpark-butterworth-iir-digital-filter-designer-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Butterworth Infinite Impulse Response (IIR) Digital Low-Pass Filter Designer",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "signal-processing",
+    "iir-filter",
+    "butterworth-filter",
+    "digital-filtering"
+  ]
+}
